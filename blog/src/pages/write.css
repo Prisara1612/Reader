@@ -1,0 +1,10 @@
+.item {
+    position: relative;
+  }
+
+  .image-preview {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px; /* Adjust padding as needed */
+  }  
